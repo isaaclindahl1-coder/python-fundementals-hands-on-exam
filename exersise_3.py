@@ -1,3 +1,4 @@
+#Isaac Lindahl
 message = input("Enter a message: ").strip()
 print(len(message))
 print(message[0])
