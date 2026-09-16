@@ -1,3 +1,4 @@
+# Isaac Lindahl
 name = input("What is your first name: ").strip().capitalize()
 snack = input("What snack are you getting: ").strip().title()
 price = float(input(f"What is the price of the {snack}: "))
